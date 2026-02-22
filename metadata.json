@@ -1,0 +1,5 @@
+{
+  "name": "Agenda Ristorante Pro",
+  "description": "Gestione prenotazioni con divisione sale, monitoraggio capienza in tempo reale e sincronizzazione multi-utente.",
+  "requestFramePermissions": []
+}
